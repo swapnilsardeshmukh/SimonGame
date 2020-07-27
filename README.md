@@ -1,1 +1,4 @@
 # SimonGame
+
+supports
+PC version 
